@@ -1,1 +1,1 @@
-A Freelance Portfolio website im working on.
+A Freelance Portfolio website im currently working on.
