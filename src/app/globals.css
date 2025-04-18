@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Expanded+One&display=swap');
 @import "tailwindcss";
 
 :root {
@@ -48,4 +49,8 @@ h5{
 }
 nav li{
   font-family: Shockwave;
+}
+.description-text{
+  font-family:"Special Gothic Expanded One";
+  font-weight: 100;
 }
