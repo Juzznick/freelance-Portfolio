@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Expanded+One&display=swap');
 @import "tailwindcss";
-
+*{
+  scroll-behavior: smooth;
+}
 :root {
   --background: #ffffff;
   --foreground: #171717;
@@ -47,9 +49,9 @@ h1{
 h5{
   font-family: Shockwave;
 }
-nav li{
-  font-family: Procerus;
-}
+/* nav li{
+  font-family: Shockwave;
+} */
 .description-text{
   font-family:"Special Gothic Expanded One";
   font-weight: 100;

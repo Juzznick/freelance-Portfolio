@@ -4,10 +4,12 @@ import AboutMe from './aboutme'
 
 export default function Home() {
   return (
-    <div>
+    <div className='flex'>
       <NavBar/>
-      <Hero/>
-      <AboutMe/>
+      <div className='w-5/6'>
+        <Hero/>
+        <AboutMe/>
+      </div>
     </div>
   );
 }

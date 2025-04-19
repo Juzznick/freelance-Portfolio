@@ -1,6 +1,6 @@
 const AboutMe = () => {
     return (
-        <div className="h-screen bg-white flex justify-center items-center flex-col">
+        <div className="h-screen bg-white flex justify-center items-center flex-col" id="aboutme">
             <h1 className="text-blue-300 text-[15rem]">ABOUTME</h1>
             <h5 className="text-blue-300 text-2xl w-3/4 description-text">I am a passionate UI/UX designer and front-end developer focused on
                 creating seamless, user-centered digital experiences. With a strong
