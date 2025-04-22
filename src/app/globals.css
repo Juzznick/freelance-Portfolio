@@ -57,3 +57,35 @@ nav li{
   font-family:"Special Gothic Expanded One";
   font-weight: 100;
 }
+
+/* Animations */
+#hero h1{
+  animation: RevealDown 3s ease;
+}
+#hero h5{
+  animation: RevealDown 4s ease;
+}
+#hero img{
+  animation: RevealUp 3s ease;
+}
+
+
+
+@keyframes RevealDown{
+  0%{
+    transform: translateY(-20rem);
+  }
+  100%{
+
+    transform: translateY(0);
+  }
+}
+@keyframes RevealUp{
+  0%{
+    transform: translateY(20rem);
+  }
+  100%{
+
+    transform: translateY(0rem);
+  }
+}
