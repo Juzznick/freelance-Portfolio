@@ -8,6 +8,7 @@ const NavBar = () => {
                 <a><li className="cursor-pointer text-3xl text-white">EXPERIENCE</li></a>
             </ul>
         </nav>
+        
     );
 }
 
