@@ -5,6 +5,7 @@ import NavBar from './navbar';
 import AboutMe from './aboutme';
 import Education from './education';
 import Loader from './loader';
+import Contact from './contact';
 
 export default function Home() {
 
@@ -58,6 +59,7 @@ export default function Home() {
         <Hero />
         <AboutMe />
         <Education />
+        <Contact />
       </div>
 
 
