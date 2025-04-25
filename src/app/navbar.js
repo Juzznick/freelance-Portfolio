@@ -7,6 +7,7 @@ const NavBar = () => {
                     <a href='#hero' className="w-full flex justify-center items-center bg-primary h-13 m-1"><li className="cursor-pointer text-2xl  text-white">Home</li></a>
                     <a href='#aboutme' className="w-full flex justify-center  items-center bg-primary h-13 m-1"><li className="cursor-pointer text-2xl  text-white">About Me</li></a>
                     <a href='#education' className="w-full flex justify-center  items-center bg-primary h-13 m-1"><li className="cursor-pointer text-2xl  text-white">Education</li></a>
+                    <a href='#hero' className="w-full flex justify-center  items-center bg-primary h-13 m-1"><li className="cursor-pointer text-2xl  text-white">Contact</li></a>
                 </ul>
             </div>
         </nav>
