@@ -8,6 +8,7 @@ const NavBar = () => {
                     <a href='#aboutme' className="w-full flex justify-center  items-center bg-primary h-13 m-1 shadow-[inset_0px_0px_38px_-1px_rgba(236,_72,_153,_0.5)]"><li className="cursor-pointer text-2xl  text-white">About Me</li></a>
                     <a href='#education' className="w-full flex justify-center  items-center bg-primary h-13 m-1 shadow-[inset_0px_0px_38px_-1px_rgba(236,_72,_153,_0.5)]"><li className="cursor-pointer text-2xl  text-white">Education</li></a>
                     <a href='#contact' className="w-full flex justify-center  items-center bg-primary  h-13 m-1 shadow-[inset_0px_0px_38px_-1px_rgba(236,_72,_153,_0.5)]"><li className="cursor-pointer text-2xl  text-white">Contact</li></a>
+                    <a href='/Nida_Shirin_Resume.pdf' className="w-full flex justify-center  items-center bg-primary  h-13 m-1 shadow-[inset_0px_0px_38px_-1px_rgba(236,_72,_153,_0.5)]"><li className="cursor-pointer text-2xl  text-white">My Resume</li></a>
                 </ul>
             </div>
         </nav>
