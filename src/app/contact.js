@@ -8,7 +8,7 @@ const Contact = () => {
             <h5 className="text-primary flex justify-center text-2xl w-3/4 description-text">nidashirin@gmail.com</h5>
 
             <div className="flex w-50 justify-between mt-5">
-                <a href="/Nida_Shirin_Resume.pdf">
+                <a href="https://www.linkedin.com/in/nida-shirin/" target="_blank">
                     <img width="50" height="50" src="/Logos/linkedin.png" alt="linkedin" />
                 </a>
                 <a href="/Nida_Shirin_Resume.pdf">
