@@ -9,13 +9,13 @@ const Contact = () => {
 
             <div className="flex w-50 justify-between mt-5">
                 <a href="https://www.linkedin.com/in/nida-shirin/" target="_blank">
-                    <img width="50" height="50" src="/Logos/linkedin.png" alt="linkedin" />
+                    <img width="60" height="60" src="/Logos/linkedin.png" alt="linkedin" />
                 </a>
-                <a href="/Nida_Shirin_Resume.pdf">
-                    <img width="50" height="50" src="/Logos/file.png" alt="resume" />
+                <a href="/Nida_Shirin_Resume.pdf"  target="_blank">
+                    <img width="60" height="60" src="/Logos/file.png" alt="resume" />
                 </a>
-                <a href="/Nida_Shirin_Resume.pdf">
-                    <img width="50" height="50" src="/Logos/github.png" alt="github" />
+                <a href="/Nida_Shirin_Resume.pdf"  target="_blank">
+                    <img width="60" height="60" src="/Logos/github.png" alt="github" />
                 </a>
             </div>
 
