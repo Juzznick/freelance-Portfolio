@@ -18,6 +18,7 @@
 
 @theme{
   --color-primary: #fac8d4;
+  --color-primaryBackground: #E9A1B4;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -48,6 +49,10 @@ body {
   font-weight: normal;
   font-style: normal;
 }
+
+
+
+
 h1{
   font-family: Procerus;
 }
@@ -63,6 +68,7 @@ nav li{
   font-weight: 100;
 }
 
+
 /* Animations */
 #hero h1{
   animation: RevealDown 3s ease;
@@ -73,6 +79,11 @@ nav li{
 #hero img{
   animation: RevealUp 3s ease;
 }
+
+
+
+
+
 
 
 

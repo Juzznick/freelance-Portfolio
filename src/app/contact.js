@@ -1,7 +1,7 @@
 const Contact = () => {
     return (
         <div className="h-screen bg-white flex justify-center items-center flex-col" id="contact">
-            <h1 className="text-primary text-[15rem]">CONTACT ME</h1>
+            <h1 className="text-primary text-[15rem]">LET'S CHAT!</h1>
             <h5 className="text-black/50 flex justify-center text-2xl w-3/4 description-text">
                 +91 7559964498
             </h5>
