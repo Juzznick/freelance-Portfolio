@@ -4,6 +4,7 @@ import Hero from './hero';
 import NavBar from './navbar';
 import AboutMe from './aboutme';
 import Education from './education';
+import Experience from './experience';
 import Loader from './loader';
 import Contact from './contact';
 
@@ -59,6 +60,7 @@ export default function Home() {
         <Hero />
         <AboutMe />
         <Education />
+        <Experience />
         <Contact />
       </div>
 

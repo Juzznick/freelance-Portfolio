@@ -19,6 +19,11 @@ const NavBar = () => {
                         <li className="cursor-pointer text-1xl  text-white">Education</li>
                     </a>
 
+                    <a href='#experience' className="w-full flex justify-start  items-center bg-primary h-7 m-1 shadow-[inset_0px_0px_38px_-1px_rgba(236,_72,_153,_0.5)]">
+                        <img width="25" height="25" src="https://img.icons8.com/ios-filled/50/FFFFFF/book.png" className="mr-1.5 ml-5"  alt="book"/>
+                        <li className="cursor-pointer text-1xl  text-white">Experience</li>
+                    </a>
+
                     <a href='#contact' className="w-full flex justify-start  items-center bg-primary  h-7 m-1 shadow-[inset_0px_0px_38px_-1px_rgba(236,_72,_153,_0.5)]">
                         <img width="25" height="25" src="https://img.icons8.com/ios-filled/50/FFFFFF/contact-card.png" className="mr-1.5 ml-5" alt="contact-card"/>
                         <li className="cursor-pointer text-1xl  text-white">Contact</li>

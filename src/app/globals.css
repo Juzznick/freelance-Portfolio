@@ -105,6 +105,17 @@ nav li{
   }
 }
 
+@keyframes ScaleUp{
+  0%{
+    transform: scale(100%);
+  }
+  50%{
+    transform: scale(130%);
+  }
+  100%{
+    transform: scale(100%);
+  }
+}
 
 /* Reveal Section  */
 .reveal{
@@ -115,4 +126,10 @@ nav li{
 .reveal.active{
   transform: translateY(0px);
   opacity: 1;
+}
+
+#contact span{
+  animation: ScaleUp 2s infinite;
+  color: #B6D8F3;
+  display: inline-block;
 }
