@@ -17,14 +17,17 @@
 }
 
 @theme{
-  --color-primary: #fac8d4;
-  --color-secondary: #B6D8F3;
-  --color-primaryBackground: #E9A1B4;
+  --color-primary: #fac8d4; /*Pink*/
+  --color-primary: #bc4538; /*Light Red*/
+  --color-primary: #792b24; /*Dark Red*/
+  --color-primary: #6d959a; /*Cyan*/
+  --color-secondary: #bc4538;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #fac8d4;
+    /* --background: #fac8d4; */
+    --background: #bc4538; /*Light Red*/
     --foreground: #ededed;
   }
 }
