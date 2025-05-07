@@ -18,6 +18,7 @@
 
 @theme{
   --color-primary: #fac8d4;
+  --color-secondary: #B6D8F3;
   --color-primaryBackground: #E9A1B4;
 }
 
@@ -130,6 +131,5 @@ nav li{
 
 #contact span{
   animation: ScaleUp 2s infinite;
-  color: #B6D8F3;
   display: inline-block;
 }
