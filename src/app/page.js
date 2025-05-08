@@ -7,6 +7,7 @@ import Education from './education';
 import Experience from './experience';
 import Loader from './loader';
 import Contact from './contact';
+import Projects from './projects';
 
 export default function Home() {
 
@@ -61,6 +62,7 @@ export default function Home() {
         <AboutMe />
         <Education />
         <Experience />
+        <Projects/>
         <Contact />
       </div>
 

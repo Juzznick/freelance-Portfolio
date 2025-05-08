@@ -16,13 +16,18 @@ const NavBar = () => {
                     </a>
 
                     <a href='#education' className="w-full flex justify-start  items-center bg-primary h-7 m-1 ">
-                        <Image width="25" height="25" src="https://img.icons8.com/ios-filled/50/FFFFFF/book.png" className="mr-1.5 ml-5"  alt="book"/>
+                        <Image width="25" height="25" src="https://img.icons8.com/glyph-neue/64/FFFFFF/education.png" className="mr-1.5 ml-5"  alt="book"/>
                         <li className="cursor-pointer text-1xl  text-white">Education</li>
                     </a>
 
                     <a href='#experience' className="w-full flex justify-start  items-center bg-primary h-7 m-1 ">
                         <Image width="25" height="25" src="https://img.icons8.com/ios-filled/50/FFFFFF/book.png" className="mr-1.5 ml-5"  alt="book"/>
                         <li className="cursor-pointer text-1xl  text-white">Experience</li>
+                    </a>
+
+                    <a href='#projects' className="w-full flex justify-start  items-center bg-primary h-7 m-1 ">
+                        <Image width="25" height="25" src="https://img.icons8.com/ios-filled/50/FFFFFF/book.png" className="mr-1.5 ml-5"  alt="book"/>
+                        <li className="cursor-pointer text-1xl  text-white">Projects</li>
                     </a>
 
                     <a href='#contact' className="w-full flex justify-start  items-center bg-primary  h-7 m-1 ">
