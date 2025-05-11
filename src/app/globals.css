@@ -22,6 +22,9 @@
   --color-primary: #792b24; /*Dark Red*/
   --color-primary: #6d959a; /*Cyan*/
   --color-secondary: #bc4538;
+
+  --color-card1: #FDDF65;
+  --color-card2: #B6F36B;
 }
 
 @media (prefers-color-scheme: dark) {

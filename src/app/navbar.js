@@ -6,32 +6,32 @@ const NavBar = () => {
                 {/* <img src='/profile-img.jpeg' className="absolute top-10 w-3/4 rounded-full"/> */}
                 <ul className="flex flex-col items-center w-full">
                     <a href='#hero' className="w-full flex justify-start items-center bg-primary h-7 m-1  ">
-                        <Image width="25" height="25" src="https://img.icons8.com/glyph-neue/64/FFFFFF/home--v1.png" className="mr-1.5 ml-5" alt="home--v1"/>
+                        <Image width="25" height="25" src="https://img.icons8.com/glyph-neue/64/FFFFFF/home--v1.png" className="mr-1.5 ml-5" alt="home"/>
                         <li className="cursor-pointer text-1xl  text-white">Home</li>
                     </a>
 
                     <a href='#aboutme' className="w-full flex justify-start  items-center bg-primary h-7 m-1 ">
-                        <Image width="25" height="25" src="https://img.icons8.com/sf-regular-filled/48/FFFFFF/person-male.png" className="mr-1.5 ml-5"  alt="person-male"/>
+                        <Image width="25" height="25" src="https://img.icons8.com/sf-regular-filled/48/FFFFFF/person-male.png" className="mr-1.5 ml-5"  alt="about-me"/>
                         <li className="cursor-pointer text-1xl  text-white">About Me</li>
                     </a>
 
                     <a href='#education' className="w-full flex justify-start  items-center bg-primary h-7 m-1 ">
-                        <Image width="25" height="25" src="https://img.icons8.com/glyph-neue/64/FFFFFF/education.png" className="mr-1.5 ml-5"  alt="book"/>
+                        <Image width="25" height="25" src="https://img.icons8.com/glyph-neue/64/FFFFFF/education.png" className="mr-1.5 ml-5"  alt="education"/>
                         <li className="cursor-pointer text-1xl  text-white">Education</li>
                     </a>
 
                     <a href='#experience' className="w-full flex justify-start  items-center bg-primary h-7 m-1 ">
-                        <Image width="25" height="25" src="https://img.icons8.com/ios-filled/50/FFFFFF/book.png" className="mr-1.5 ml-5"  alt="book"/>
+                        <Image width="25" height="25" src="https://img.icons8.com/ios-filled/50/FFFFFF/book.png" className="mr-1.5 ml-5"  alt="experience"/>
                         <li className="cursor-pointer text-1xl  text-white">Experience</li>
                     </a>
 
                     <a href='#projects' className="w-full flex justify-start  items-center bg-primary h-7 m-1 ">
-                        <Image width="25" height="25" src="https://img.icons8.com/ios-filled/50/FFFFFF/book.png" className="mr-1.5 ml-5"  alt="book"/>
+                        <Image width="25" height="25" src="https://img.icons8.com/ios-filled/50/FFFFFF/group-of-projects.png" className="mr-1.5 ml-5"  alt="projects"/>
                         <li className="cursor-pointer text-1xl  text-white">Projects</li>
                     </a>
 
                     <a href='#contact' className="w-full flex justify-start  items-center bg-primary  h-7 m-1 ">
-                        <Image width="25" height="25" src="https://img.icons8.com/ios-filled/50/FFFFFF/contact-card.png" className="mr-1.5 ml-5" alt="contact-card"/>
+                        <Image width="25" height="25" src="https://img.icons8.com/ios-filled/50/FFFFFF/contact-card.png" className="mr-1.5 ml-5" alt="contact"/>
                         <li className="cursor-pointer text-1xl  text-white">Contact</li>
                     </a>
 
