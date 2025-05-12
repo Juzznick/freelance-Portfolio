@@ -1,7 +1,7 @@
 import Image from 'next/image';
 const AboutMe = () => {
     return (
-        <div className="h-screen flex justify-center items-center flex-col relative " id="aboutme">
+        <div className="h-screen flex justify-center items-center flex-col relative overflow-hidden" id="aboutme">
             <h1 className="text-white text-[15rem] reveal z-1">ABOUT MEEE</h1>
             <h5 className="text-white text-2xl w-3/4 description-text reveal z-1">
                 I am a passionate UI/UX designer and front-end developer focused on creating seamless,
