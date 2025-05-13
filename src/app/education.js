@@ -1,3 +1,4 @@
+import Image from "next/image";
 const Education = () => {
     return(
         <div className="h-screen relative overflow-hidden flex flex-col items-center justify-center right-0" id="education">
@@ -7,6 +8,7 @@ const Education = () => {
             <h5 className=" description-text text-white text-2xl w-3/4 reveal z-1">I am currently pursuing my Bachelor&#39;s degree in Technology (BTech) at Vidya Academy of Science and Technology, Thrissur, Kerala. 
                 Throughout my academic journey, I have developed a solid foundation in both design and coding, equipping me with the skills necessary 
                 to create user-centered digital solutions.</h5>
+            <Image className='absolute z-0 object-cover bottom-0 opacity-80' loading="lazy" src='/education-bg.webp' alt="education" layout="fill" />
         </div>
     );
 }
