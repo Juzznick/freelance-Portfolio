@@ -7,25 +7,25 @@ const Projects = () => {
                         <div className="flex justify-center card relative w-75 rounded-2xl h-80 bg-white/70 overflow-hidden cursor-pointer">
                             <h4 className="flex justify-center absolute bottom-2 ">Planto</h4>
                             <div className="flex justify-center absolute top-5 h-50 hover:scale-110">
-                                <Image className="object-cover rounded-2xl" src='/proj1.png' width={250} height={100} alt="project 1"/>
+                                <Image className="object-cover rounded-2xl hover:grayscale" src='/proj1.png' width={250} height={100} alt="project 1"/>
                             </div>
                         </div>
                         <div className="flex justify-center card relative w-75 rounded-2xl h-80 bg-white/70 overflow-hidden cursor-pointer">
                             <h4 className="flex justify-center absolute bottom-2 ">Devlabs</h4>
                             <div className="flex justify-center absolute top-5 h-50 hover:scale-110">
-                                <Image className="object-cover rounded-2xl" src='/proj2.png' width={250} height={100} alt="project 1"/>
+                                <Image className="object-cover rounded-2xl hover:grayscale" src='/proj2.png' width={250} height={100} alt="project 1"/>
                             </div>
                         </div>
                         <div className="flex justify-center card relative w-75 rounded-2xl h-80 bg-white/70 overflow-hidden cursor-pointer">
                             <h4 className="flex justify-center absolute bottom-2 ">BEIN</h4>
                             <div className="flex justify-center absolute top-5 h-50 hover:scale-110">
-                                <Image className="object-cover rounded-2xl" src='/proj3.png' width={250} height={100} alt="project 1"/>
+                                <Image className="object-cover rounded-2xl hover:grayscale" src='/proj3.png' width={250} height={100} alt="project 1"/>
                             </div>
                         </div>
                         <div className="flex justify-center card relative w-75 rounded-2xl h-80 bg-white/70 overflow-hidden cursor-pointer">
                             <h4 className="flex justify-center absolute bottom-2 ">Airwave</h4>
                             <div className="flex justify-center absolute top-5 h-50 hover:scale-110">
-                                <Image className="object-cover rounded-2xl" src='/proj4.png' width={250} height={100} alt="project 1"/>
+                                <Image className="object-cover rounded-2xl hover:grayscale" src='/proj4.png' width={250} height={100} alt="project 1"/>
                             </div>
                         </div>
                     </div>
