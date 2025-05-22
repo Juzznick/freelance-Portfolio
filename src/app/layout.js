@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Nida Shirin",
+  title: "Hey, I'm Nida Shirin",
   description: "My Personal Portfolio Website",
 };
 
